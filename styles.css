@@ -1,0 +1,59 @@
+body{
+    margin: 0%;
+}
+
+.home-page {
+    background-image: url('https://wallpapercave.com/wp/wp4009393.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 200px;
+}
+
+
+.poo {
+    top:0px;
+}
+
+h1 {
+    margin: 0px;
+}
+
+.Hongphet {
+    margin: 3%;
+    margin-top: 6%;
+}
+
+.menu {
+    background-color: #212121ff;
+    align-content: center;
+}
+.Button {
+    opacity: 1;
+    transition-duration: 0.4s;
+
+}
+.Button:hover {
+    opacity: 0.5;
+}
+
+.filled {
+    font-family:"Abril Fatface";
+    font-size: 45px;
+    color: #d8d8d8;
+    -webkit-text-fill-color:#d8d8d8;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #d8d8d8;
+}
+
+.empty {
+    font-family:"Abril Fatface";
+    font-size: 45px;
+    color: #d8d8d8;
+    -webkit-text-fill-color: transparent; 
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #d8d8d8;
+}
+
+.buttons {
+    background-color: #212121ff;
+}
